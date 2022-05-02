@@ -1,6 +1,6 @@
 # nuxt-satarte
 
-$ Projeto de setup usando vue-2, nuxt e tailwind 
+### Projeto de setup usando vue-2, nuxt e tailwind 
 
 ## Build Setup
 
